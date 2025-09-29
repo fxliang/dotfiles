@@ -1,0 +1,67 @@
+#if exa available
+if command -v exa &> /dev/null; then
+  alias ls='exa --icons'
+  alias lst='exa -hl --icons -T'
+  alias ll='exa -hl --icons'
+  alias lla='exa -hla --icons'
+  alias la='exa -ha --icons'
+else
+  alias ls='ls --color=auto'
+  alias lst='ls -hlT'
+  alias ll='ls -hl'
+  alias lla='ls -hla'
+  alias la='ls -ha'
+fi
+if command -v fdfind &> /dev/null; then
+  alias f='fdfind'
+else
+  alias f='find . -name'
+fi
+alias cls='clear'
+alias rrf='rm -rf'
+if command -v nvim &> /dev/null; then
+  alias vim='nvim'
+fi
+
+alias gdiff='git diff'
+alias gco='git checkout'
+alias gst='git status'
+alias glog='git log --oneline'
+alias grb='git rebase'
+alias grsf='git reset --hard'
+alias gc1v='git clone -v --depth=1'
+alias lg='lazygit'
+alias ai="sudo apt install"
+alias au="sudo apt update"
+alias aug="sudo apt upgrade"
+alias ac="sudo apt clean"
+alias arm="sudo apt remove"
+alias aarm="sudo apt autoremove"
+alias c=clear
+alias bat=batcat
+alias so=source
+alias zl=zellij
+alias du1='du -h --max-depth=1'
+alias j=jobs
+
+# objdump a executable/lib and grep NEEDED
+need() {
+  if [ $# -eq 0 ]; then
+    echo "Usage: need <file1> <file2> ..."
+    return 1
+  fi
+  for file in "$@"; do
+    if [ ! -f "$file" ]; then
+      echo "Error: File '$file' does not exist"
+      continue
+    fi
+    echo "=== NEEDED libraries for $file ==="
+    objdump -p "$file" | grep NEEDED
+    echo
+    done
+}
+
+# if $HOME/.proxycmd exists, source it
+if [ -f "$HOME/.proxycmd" ]; then
+  source "$HOME/.proxycmd"
+fi

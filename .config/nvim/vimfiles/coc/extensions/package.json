@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "coc-clangd": ">=0.29.3",
+    "coc-cmake": ">=0.2.1",
+    "coc-html": ">=1.8.0",
+    "coc-json": ">=1.9.2",
+    "coc-pyright": ">=1.1.333",
+    "coc-tsserver": ">=1.8.6",
+    "coc-vimlsp": ">=0.13.1",
+    "coc-webview": ">=0.12.0",
+    "coc-rust-analyzer": ">=0.75.0",
+    "coc-sumneko-lua": ">=0.0.41",
+    "coc-kotlin": ">=0.1.0"
+  },
+  "disabled": [],
+  "locked": [],
+  "lastUpdate": 1754446513916
+}

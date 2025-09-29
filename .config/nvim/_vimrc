@@ -1,0 +1,19 @@
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+function! SourceIfReadable(path)
+	if filereadable(a:path)
+		exe 'source ' . a:path
+	endif
+endfunction
+command! -nargs=1 SoReadable :call SourceIfReadable(<args>)
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+if has('win32') || has('win64')
+	if filereadable($HOME . '/sysinit.vim')
+		call SourceIfReadable($HOME . '/sysinit.vim')
+	else
+		call SourceIfReadable($VIM . '/sysinit.vim')
+	endif
+else
+	if filereadable(expand('<sfile>:p:h') . '/sysinit.vim')
+		call SourceIfReadable(expand('<sfile>:p:h') . '/sysinit.vim')
+	endif
+endif

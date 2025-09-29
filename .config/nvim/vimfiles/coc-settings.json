@@ -1,0 +1,18 @@
+{
+  "rust-analyzer.enable": true,
+  "rust-analyzer.server.path": "/usr/bin/rust-analyzer",
+  "sumneko-lua.enable": true,
+  "coc.preferences.maxFileSize": "10MB",
+  "Lua.workspace.library": [
+
+  ],
+  "Lua.diagnostics.globals": [
+  ],
+  "languageserver": {
+    "lua": {
+      "command": "~/apps/lua-language-server/bin/lua-language-server",
+      "rootPatterns": [".git"],
+      "filetypes": ["lua"]
+    }
+  }
+}

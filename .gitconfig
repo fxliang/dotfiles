@@ -1,0 +1,43 @@
+[user]
+  email = fx.liang@outlook.com
+  name = fxliang
+[core]
+  autocrlf = input
+	editor = nvim
+  pager = delta
+
+[interactive]
+  diffFilter = delta --color-only
+
+[delta]
+  navigate = true  # use n and N to move between diff sections
+  dark = true      # or light = true, or omit for auto-detectionhitespace = cr-at-eol
+  line-numbers = true
+  #side-by-side = true
+
+[alias]
+  lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
+  st = status
+  cm = commit -m
+  co = checkout
+  plv = pull -v
+  psv = push -v
+  psvf = push -v -f
+  ll = log --graph --oneline --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
+  rmv = remote -v
+  rb = rebase
+  rbi = rebase -i
+  fv = fetch -v
+  ba = branch -a
+  dst = diff --stat
+  cl1v = clone --depth=1 -v
+  cpk = cherry-pick
+
+[cola]
+  spellcheck = false
+[credential "https://github.com"]
+  helper = 
+  helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+  helper = 
+  helper = !/usr/bin/gh auth git-credential

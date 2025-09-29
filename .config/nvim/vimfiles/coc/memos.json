@@ -1,0 +1,478 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "C:\\Python39\\python.exe.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "C:\\Python39\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "C:\\Python39",
+        "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af"
+      },
+      "expiry": 1612402502530
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "C:\\Python39\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "C:\\Python39",
+        "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "C:\\Python39\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "C:\\Python39",
+        "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "C:\\Python39\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "C:\\Python39",
+        "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+        "type": "Unknown"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_WindowsRegistryService": [
+      {
+        "architecture": 3,
+        "path": "C:\\Python39\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "C:\\Python39",
+        "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+        "companyDisplayName": "Python Software Foundation",
+        "type": "Unknown"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "C:\\Python39\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "C:\\Python39",
+      "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "C:\\Python39\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "C:\\Python39",
+      "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+      "type": "Unknown"
+    },
+    "InterpreterAutoSeletionRule-windowsRegistry": {
+      "architecture": 3,
+      "path": "C:\\Python39\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "C:\\Python39",
+      "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+      "companyDisplayName": "Python Software Foundation",
+      "type": "Unknown"
+    },
+    "C:\\Python39\\python.exe.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+        "info": {
+          "architecture": 3,
+          "path": "C:\\Python39\\python.exe",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.0-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 0,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.0-final"
+          },
+          "sysPrefix": "C:\\Python39",
+          "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+          "companyDisplayName": "Python Software Foundation",
+          "type": "Unknown",
+          "displayName": "Python 3.9.0 64-bit"
+        }
+      },
+      "expiry": 1612405070151
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "C:\\Python39\\python.exe",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.0-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 0,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.0-final"
+        },
+        "sysPrefix": "C:\\Python39",
+        "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "C:\\Python39\\python.exe.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.0 64-bit",
+        "hash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af-ff8456851b8383fc6f5e5fa4dc993e07"
+      },
+      "expiry": 1612405070140
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "C:\\Python39\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "C:\\Python39",
+      "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+      "companyDisplayName": "Python Software Foundation",
+      "type": "Unknown",
+      "displayName": "Python 3.9.0 64-bit"
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "C:\\Python39\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "C:\\Python39",
+      "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+      "companyDisplayName": "Python Software Foundation",
+      "type": "Unknown"
+    },
+    "ProposeLSBanner": false
+  },
+  "coc-python|c:\\Users\\Liangfx\\Desktop": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:802237b02e125ece01bd651f54fdf4e4": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:802237b02e125ece01bd651f54fdf4e4": [],
+    "autoSelectedWorkspacePythonInterpreter-c:\\Users\\Liangfx\\Desktop": {
+      "architecture": 3,
+      "path": "C:\\Python39\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "C:\\Python39",
+      "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|c:\\Users\\Liangfx\\Desktop\\Tongda_Lib": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b014343cffedf0d30babb46ef8305e70": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b014343cffedf0d30babb46ef8305e70": [],
+    "autoSelectedWorkspacePythonInterpreter-c:\\Users\\Liangfx\\Desktop\\Tongda_Lib": {
+      "architecture": 3,
+      "path": "C:\\Python39\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "C:\\Python39",
+      "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|C:\\Users\\Liangfx\\Desktop\\Tongda_Lib": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b014343cffedf0d30babb46ef8305e70": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b014343cffedf0d30babb46ef8305e70": [],
+    "autoSelectedWorkspacePythonInterpreter-c:\\Users\\Liangfx\\Desktop\\Tongda_Lib": {
+      "architecture": 3,
+      "path": "C:\\Python39\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "C:\\Python39",
+      "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|c:\\Users\\Liangfx\\Desktop\\PlayPython": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e564ff9bf36d3a8b942691c1a4c91c8c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e564ff9bf36d3a8b942691c1a4c91c8c": [],
+    "autoSelectedWorkspacePythonInterpreter-c:\\Users\\Liangfx\\Desktop\\PlayPython": {
+      "architecture": 3,
+      "path": "C:\\Python39\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.0-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 0,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.0-final"
+      },
+      "sysPrefix": "C:\\Python39",
+      "fileHash": "ac214e7dc58cb07a6efcc91c278b68d3c7305c0b950d09ffb4d5788c5c04eebedfc5bf19e8ccf4e98fd9931a22a40aa925690f589e514a4bc897aacb627e21af",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-json|global": {
+    "json-schema-cache": {
+      "https://json.schemastore.org/compile-commands.json": {
+        "etag": "W/\"68868fa0-81f\"",
+        "fileName": "d39aec69debdd6d26331e1de0cfddea3.schema.json",
+        "updateTime": 1753688277981
+      },
+      "https://json.schemastore.org/package.json": {
+        "etag": "W/\"68756c62-ad16\"",
+        "fileName": "473f72b44c2905902dfbcc770aab7f7a.schema.json",
+        "updateTime": 1752539914733
+      },
+      "https://json.schemastore.org/jscpd.json": {
+        "etag": "W/\"68756c66-298b\"",
+        "fileName": "22bfc1ab1ff56aae62322f6ce45dab5a.schema.json",
+        "updateTime": 1752539916140
+      },
+      "https://json.schemastore.org/ava.json": {
+        "etag": "W/\"68756c66-19f0\"",
+        "fileName": "635f57185b22bce9d3a56c68f5da4ad7.schema.json",
+        "updateTime": 1752539916121
+      },
+      "https://json.schemastore.org/prettierrc.json": {
+        "etag": "W/\"68756c62-348e\"",
+        "fileName": "ea5ab10330a3ab77dfd6d00a735b0925.schema.json",
+        "updateTime": 1752539916089
+      },
+      "https://json.schemastore.org/eslintrc.json": {
+        "etag": "W/\"68756c62-d796\"",
+        "fileName": "c5064f140d4cfdbf4d6fbe68f68abbb1.schema.json",
+        "updateTime": 1752539916081
+      },
+      "https://json.schemastore.org/stylelintrc.json": {
+        "etag": "W/\"68756c66-1c1fa\"",
+        "fileName": "000bfbdd14d2fb8ec5b0d59bec32ef98.schema.json",
+        "updateTime": 1752539916161
+      },
+      "https://json.schemastore.org/semantic-release.json": {
+        "etag": "W/\"68756c62-d4e\"",
+        "fileName": "fbc95702ba6eddb3e2de4f52e31ca82a.schema.json",
+        "updateTime": 1752539916159
+      },
+      "https://json.schemastore.org/partial-eslint-plugins.json": {
+        "etag": "W/\"68756c62-72d5a\"",
+        "fileName": "fc7bb6e733b774ce47be6006f0b75b87.schema.json",
+        "updateTime": 1752539917749
+      }
+    }
+  }
+}
